@@ -77,10 +77,7 @@ Nuestra version disponible es: _version 0.1.0_.
 
 ##Autores ✒️##
 
-Este proyecto a sido realizado por los alumnos David Alvarez y Raúl Santacruz.
-
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo LICENSE.md para detalles
+Este proyecto ha sido realizado por los alumnos David Alvarez y Raúl Santacruz.
 
 ##Expresiones de Gratitud 🎁##
 
