@@ -79,7 +79,6 @@ Nuestra version disponible es: _version 0.1.0_.
 
 Este proyecto a sido realizado por los alumnos David Alvarez y Raúl Santacruz.
 
-##Licencia 📄##
 
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo LICENSE.md para detalles
 
